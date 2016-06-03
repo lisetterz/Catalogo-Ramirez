@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns = "http://www.w3.org/ns/widgets"
+    xmlns:gap = "http://phonegap.com/ns/1.0"
+    id        = "com.phonegap.lrz"
+    version   = "1.0.0">
+
+<name>Lisette Ramírez Zambada</name>
+
+<description>
+Aplicación desarrollada mediante PhoneGap para Proyecto Final.
+</description>
+
+<author href="https://example.com" email="you@example.com">
+Lisette Ramírez Zambada
+</author>
+
+<icon src="img/bolso.png" gap:platform="android" gap:density="hdpi" />
+
+</widget>
